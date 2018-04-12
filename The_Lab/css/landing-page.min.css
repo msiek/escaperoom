@@ -117,3 +117,6 @@ footer.footer {
     padding-top:1rem;
     padding-bottom:4rem
 }
+.col-sm-4 {
+    padding-bottom: .5rem;
+}
