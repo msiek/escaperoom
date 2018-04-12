@@ -84,7 +84,14 @@ header.masthead h1 {
     max-width:18rem
 }
 .contact .testimonial-item img {
-    max-width: 12rem;
+    max-width: 8rem;
+}
+.contact .ticket-item img {
+    padding-bottom: 1rem;
+    max-width: 8rem;
+}
+.contact .location-item img{
+    max-width: 5rem;
 }
 .call-to-action {
     position:relative;
@@ -107,6 +114,6 @@ header.masthead h1 {
     opacity:.3
 }
 footer.footer {
-    padding-top:4rem;
+    padding-top:1rem;
     padding-bottom:4rem
 }
